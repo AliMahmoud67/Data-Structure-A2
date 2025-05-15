@@ -1,0 +1,19 @@
+6
+Ahmed 50 0
+Badr 80 1
+Cam 80 2
+Dalia 30 3
+Eman 90 4
+Farah 90 5
+3
+Ali 50 0
+Sara 70 1
+Ziad 60 2
+2
+Khaled 90 0
+Mona 70 1
+4
+Ahmed 40 0
+Laila 50 1
+Omar 30 2
+Nour 50 3
