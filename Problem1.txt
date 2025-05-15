@@ -1,0 +1,88 @@
+7
+
+10
+Visit google.com
+Visit Facebook.com
+Visit youtube.com
+Back
+Back
+Forward
+Visit linkedin.com
+Forward
+Back
+Back
+
+8
+Visit google.com
+Visit Gmail.com
+Back
+Back
+Forward
+Visit Yahoo.com
+Forward
+Back
+
+5
+Visit youtube.com
+Visit instagram.com
+Back
+Forward
+Back
+
+9
+Visit google.com
+Visit youtube.com
+Back
+Visit linkedin.com
+Back
+Forward
+Forward
+Back
+Forward
+
+7
+Visit twitter.com
+Visit reddit.com
+Back
+Back
+Visit amazon.com
+Back
+Forward
+
+6
+Visit github.com
+Visit stackoverflow.com
+Visit medium.com
+Back
+Back
+Forward
+
+28
+Forward
+Back
+Visit 111
+Back
+Visit 222
+Back
+Back
+Back
+Forward
+Back
+Visit 333
+Back
+Back
+Forward
+Forward
+Forward
+Forward
+Visit 444
+Visit 555
+Back
+Back
+Back
+Back
+Back
+Visit 666
+Forward
+Back
+Back
